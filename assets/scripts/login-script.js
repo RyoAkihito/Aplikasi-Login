@@ -21,5 +21,6 @@ loginFormElement.addEventListener('submit', function(event) {
     goToHome();
   } else {
     showPopUp();
+    
   }
 });
